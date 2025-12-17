@@ -14,12 +14,10 @@ Verkehrsunfällen nutzen.
 
 Information / Daten:
 
-CitiBike Website: https://citibikenyc.com/ \\n
-CitiBike Trip Data: https://s3.amazonaws.com/tripdata/index.html \\n
-NYPD Collision Data: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data \\n
+CitiBike Website: https://citibikenyc.com/  <br>
+CitiBike Trip Data: https://s3.amazonaws.com/tripdata/index.html  <br>
+NYPD Collision Data: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data  
 
-Hinweise:
+Im Ordner results finden sich Ergebniss-Grafiken und eine Heatmap von NYC.
 
-Versioniere die Ergebnisse deiner Analyse bitte mit Git (bspw. auf Github). Stelle uns deine Unterlagen
-und deinen Code bitte spätestens am Abend vor unserem gemeinsamen Termin via E-Mail zur
-Verfügung.
+Ein Zusammenfassung der Ergebnisse findet sich im Ordner docs.

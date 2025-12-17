@@ -7,7 +7,7 @@ tqdm
 #numpy
 #scikit-learn
 #geopandas # Für die Geo-Analyse
-#h3       # Optional, für hexagonale Rasterung
+h3       # Optional, für hexagonale Rasterung
 #matplotlib
 #seaborn
 #folium   # Für interaktive Karten
