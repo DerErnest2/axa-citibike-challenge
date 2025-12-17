@@ -2,6 +2,7 @@
 AXA Data Scientist Challenge 12/2025
 
 Aufgabenstellung:
+
 Der Fahrradverleih CitiBike vermietet in New York über 12.000 Fahrräder an 750 Verleihstationen.
 Somit ist CitiBike eine echte Alternative zu den herkömmlichen Transportmitteln, wie z.B. U-Bahn oder
 Taxi. CitiBike stellt die durch den Verleih gesammelten Daten der Öffentlichkeit zur Verfügung
@@ -12,11 +13,13 @@ umgekehrt) skizzierst. Dazu kannst du zusätzlich die öffentlich zugängigen Da
 Verkehrsunfällen nutzen.
 
 Information / Daten:
-CitiBike Website: https://citibikenyc.com/
-CitiBike Trip Data: https://s3.amazonaws.com/tripdata/index.html
-NYPD Collision Data: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data
+
+CitiBike Website: https://citibikenyc.com/ \\n
+CitiBike Trip Data: https://s3.amazonaws.com/tripdata/index.html \\n
+NYPD Collision Data: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data \\n
 
 Hinweise:
+
 Versioniere die Ergebnisse deiner Analyse bitte mit Git (bspw. auf Github). Stelle uns deine Unterlagen
 und deinen Code bitte spätestens am Abend vor unserem gemeinsamen Termin via E-Mail zur
 Verfügung.

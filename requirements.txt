@@ -1,9 +1,13 @@
 # Notwendige Bibliotheken für das Projekt
 pandas
-numpy
-scikit-learn
-geopandas # Für die Geo-Analyse
-h3       # Optional, für hexagonale Rasterung
-matplotlib
-seaborn
-folium   # Für interaktive Karten
+lxml # parser für XML/HTML
+requests 
+beautifulsoup4 
+tqdm
+#numpy
+#scikit-learn
+#geopandas # Für die Geo-Analyse
+#h3       # Optional, für hexagonale Rasterung
+#matplotlib
+#seaborn
+#folium   # Für interaktive Karten
